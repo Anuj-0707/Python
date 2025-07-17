@@ -1,0 +1,7 @@
+Hello!
+My name is Anuj Pandey.
+I am studying in NIET college.
+College is affiliated to AKTU.
+My aim is to become an software engineer.
+My next plan is to learn java.
+But now i am learning python.
